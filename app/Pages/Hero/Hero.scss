@@ -1,0 +1,34 @@
+.Hero{
+    h5{
+        font-size: large;
+        color: silver;
+    }
+    h1{
+        font-size: 32px;
+        font-weight: bolder;
+    }
+    button{
+        color: white; 
+        padding: 1em;
+        margin-top: 1em;
+        margin-right: 1em;
+        border-radius: 1em;
+        border: 2px white solid;
+    }
+    .A{
+        background: url("https://www.billboard.com/wp-content/uploads/2021/11/Fujii-Kaze-press-2021-billboard-1548.jpg");
+        background-size: cover;
+        background-position: center;
+        object-fit: cover;
+    }
+    .B{
+        background: url("https://people.com/thmb/NDasPbZOWfpi2vryTpDta_MJwIY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(602x285:604x287)/newjeans-111023-1-c7ed1acdd72e4f2eb527cc38144aa2d4.jpg");
+        background-size: cover;
+        background-position: center;
+    }
+    .C{
+        background: url("https://preview.redd.it/i-just-noticed-king-gnu-specialz-mv-has-some-indian-actors-v0-hsdwdwz1lypb1.png?width=901&format=png&auto=webp&s=6d373f836da87e2f6de22581235e4d28e1d50498");
+        background-size: cover;
+        background-position: center;
+    }
+}
